@@ -13,3 +13,7 @@
 Interés en la creación de ilustraciones visualmente. Experiencia en dibujo, diseño de interfaces de usuario (UX) y modelado 3D. Enfoque en desarrollar obras que integren creatividad artística y funcionalidad.
 
 ---
+## Comidas Favoritas
+
+![Comida Favorita de Santiago](C:\Users\Usuario\Source\Repos\santiago111121\proyecto1\archivo\carne.jpg)  
+ Mi comida favorita es el bistec
