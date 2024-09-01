@@ -15,5 +15,5 @@ Interés en la creación de ilustraciones visualmente. Experiencia en dibujo, di
 ---
 ## Comidas Favoritas
 
-![Comida Favorita de Santiago](C:\Users\Usuario\Source\Repos\santiago111121\proyecto1\archivo\carne.jpg)  
+![Comida Favorita de Santiago](https://github.com/santiago111121/proyecto1/blob/Santiago/archivo/carne.jpg)  
  Mi comida favorita es el bistec
